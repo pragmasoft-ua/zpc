@@ -4,7 +4,7 @@ The project is pure client side demo, based on rubix template, and using same bu
 
 It needs to display two tabs or subpages, both containing zoomable partition charts and filters.
 
-Features use radial tree: http://bl.ocks.org/mbostock/4063550.
+For features use radial tree: http://bl.ocks.org/mbostock/4063550.
 
 For test use zoomable partition: http://mbostock.github.io/d3/talk/20111018/partition.html.
 
