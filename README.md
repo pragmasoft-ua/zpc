@@ -26,3 +26,14 @@ npm install
 npm install -g gulp
 gulp
 ```
+## Screenshots
+Reference-style: 
+![Features][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+Reference-style: 
+![Features][features]
+
+[features]: /screenshots/feautures.png "Features"
+
