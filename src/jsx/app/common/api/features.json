@@ -1,0 +1,10 @@
+[
+	{"name": "feature0", "tests": [1]},
+	{"name": "feature1", "tests": [1,2]},
+	{"name": "feature2", "tests": []},
+	{"name": "feature3", "tests": [3]},
+	{"name": "feature4", "tests": []},
+	{"name": "feature5", "tests": [4,5,6,7,8]},
+	{"name": "feature6", "tests": [7,8,9,10,11,12]},
+	{"name": "feature7", "tests": [1,12,10]}
+]

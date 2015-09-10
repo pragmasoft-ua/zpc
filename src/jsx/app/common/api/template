@@ -1,0 +1,29 @@
+ [
+
+   
+     '{{repeat(100)}}',
+        {
+      name: '{{lorem(3, "words")}}',
+      tests: ['{{repeat(4)}}','{{integer(0, 499)}}']
+        }
+   
+
+]
+
+
+
+
+
+
+ 
+  [
+
+   
+     '{{repeat(100)}}',
+        {
+      name: '{{lorem(3, "words")}}',
+      features: ['{{repeat(4)}}','{{integer(0, 499)}}']
+        }
+   
+
+]
