@@ -13,6 +13,7 @@ data should be static json, packaged with the app, long enough, about 500 record
 Domain model has 2 hierarchical entities:
 
 1) Requirement spec terms with features, subfeatures, etc.
+
 2) Test siutes, containing nested test suites of arbitrary levels, containing test cases
 
 These are related to each other as many to many, ie one feature can be covered by many or none tests, and one test can cover many features.
