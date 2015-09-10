@@ -1,4 +1,4 @@
-
+## Description
 
 The project is pure client side demo, based on rubix template, and using same build tools rubix has.
 
@@ -8,7 +8,7 @@ Features use radial tree: http://bl.ocks.org/mbostock/4063550.
 
 For test use zoomable partition: http://mbostock.github.io/d3/talk/20111018/partition.html.
 
-data should be static json, packaged with the app, long enough, about 5000 records each.
+data should be static json, packaged with the app, long enough, about 500 records each.
 
 Domain model has 2 hierarchical entities:
 
@@ -19,10 +19,7 @@ These are related to each other as many to many, ie one feature can be covered b
 
 Both pages should have freetext search field, entering text there will filter the tree to contain only items with such substrings and their children.
 
-Please provide estimate before you start, and report progress and spent time daily.
-
-
-Run server:
+## Installation
 ```
 npm install
 npm install -g gulp
